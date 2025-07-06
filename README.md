@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60" />
+  <img src="https://raw.githubusercontent.com/Suryaalghifari/Suryaalghifari/main/assets/logo.png" width="320" />
 </p>
+
 
 <h1 align="center">Muhamad Surya Al Ghifari</h1>
 <p align="center"><b>Web Developer</b> · Bandung, Indonesia</p>
