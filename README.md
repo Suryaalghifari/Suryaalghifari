@@ -18,7 +18,7 @@
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,git,postman,github,ps,docker,linux,windows,pr,ae,unity,blender,vercel,supabase,sublime" height="48" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,postman,github,docker,linux,windows,vercel,sublime" height="48" />
 </p>
 
 ### Database I Use
