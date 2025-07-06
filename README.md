@@ -7,12 +7,6 @@
 ## 💼 Web Developer & Information Systems Student
 ### 📍 Bandung, Indonesia
 
----
-
-- 🖥️  Portfolio: [suryaalghifari.com](http://www.suryaalghifari.com/)
-- ✉️  Email: [m.suryaalghifari@gmail.com](mailto:m.suryaalghifari@gmail.com)
-- 💬  Let's connect: [LinkedIn](https://www.linkedin.com/in/muhamad-surya-al-ghifari-791625335)
-
 
 
 ### Tech Stack
