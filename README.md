@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="80" />
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60" />
 </p>
 
-<h1 align="center">Hi, I'm Muhamad Surya Al Ghifari</h1>
-<h3 align="center">Web Developer</h3>
+<h1 align="center">Muhamad Surya Al Ghifari</h1>
+<p align="center"><b>Web Developer</b> · Bandung, Indonesia</p>
 
 <p align="center">
-  Information Systems student at Widyatama University | 2+ years organizational experience (Secretary General)<br>
-  Passionate about web development & team leadership.<br>
-  Bandung, Indonesia · <a href="http://www.suryaalghifari.com/">Portfolio</a> · <a href="mailto:m.suryaalghifari@gmail.com">Email</a>
+  <a href="http://www.suryaalghifari.com/">🌐 Portfolio</a> &nbsp;|&nbsp; 
+  <a href="mailto:m.suryaalghifari@gmail.com">✉️ Email</a>
 </p>
+
 
 ### Tech Stack
 <p align="left">
