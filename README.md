@@ -28,6 +28,11 @@ Hi there, I'm Suryaalghifari! 👋
 
 Feel free to explore my repositories and let's build something great together! 🚀
 
+---
+
+<!-- Snake Animation -->
+![github contribution grid snake animation](https://raw.githubusercontent.com/Suryaalghifari/github-contribution-snake/output/github-contribution-grid-snake-dark.svg)
+
 <!---
 Suryaalghifari/Suryaalghifari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
