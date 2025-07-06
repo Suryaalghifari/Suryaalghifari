@@ -1,95 +1,101 @@
-<h1 align="center">Hi, I'm Suryaalghifari! 👋</h1>
+<!-- Banner (Ganti URL sesuai gambar banner kamu) -->
+![Suryaalghifari Banner](https://github.com/SURYAALGHIFARI/SURYAALGHIFARI/blob/main/assets/banner.png)
+
+<img alt="Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/>
+<h2 align="left">Hey there! I'm Suryaalghifari</h2>
+
+---
+
+### 👨🏻‍💻 &nbsp;About Me
+
+- 💻 I am a passionate Junior Programmer specializing in web and mobile development.
+- 🌱 I’m currently learning Laravel, Node.js, and improving my Python skills.
+- 🎯 I love building systems, workflow diagrams, and contributing to open source.
+- 💬 Open for collaboration on web or mobile projects!
+- ✉️ Email: suryaaalghifari@gmail.com
+- 📄 [See my Résumé](#) <!-- Ganti link resume jika ada -->
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+---
+
+### 🛠️ &nbsp;Tech Stack
+
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🗃️ &nbsp;Databases
+
+![MySQL](https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### 🧰 &nbsp;Tools
+
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Laragon](https://img.shields.io/badge/laragon-0088FF?style=for-the-badge)
+
+---
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-  <em>Junior Programmer • Web & Mobile Developer • System Design Enthusiast</em>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suryaalghifari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaalghifari&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryaalghifari&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
-## About Me
+### 🏆 &nbsp;Trophies
 
-- 🔭 I'm currently working on [Project Kamu](#) & [Project Lain](#).
-- 🌱 Currently learning Laravel, Node.js, Python, and more.
-- 👯 Looking to collaborate on exciting web/mobile projects.
-- 💬 Ask me about anything related to web development, mobile apps, or system design!
-- 📫 Reach me at: suryaaalghifari@gmail.com
+[![trophy](https://github-profile-trophy.vercel.app/?username=Suryaalghifari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🐍 &nbsp;Contribution Snake
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-</div>
-
-**Tools:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" />
-
----
-
-## 📊 GitHub Stats & Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suryaalghifari&show_icons=true&theme=github_dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaalghifari&layout=compact&theme=github_dark" height="170"/>
-</div>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suryaalghifari&theme=onedark" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suryaalghifari/github-contribution-snake/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suryaalghifari/github-contribution-snake/output/github-contribution-grid-snake.svg" />
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Suryaalghifari/github-contribution-snake/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
+</div>
 
 ---
 
-## 📌 Pinned Projects
+### 💰 &nbsp;Support My Work
 
-[![Repo1](https://github-readme-stats.vercel.app/api/pin/?username=Suryaalghifari&repo=nama-repo-1&theme=github_dark)](https://github.com/Suryaalghifari/nama-repo-1)
-[![Repo2](https://github-readme-stats.vercel.app/api/pin/?username=Suryaalghifari&repo=nama-repo-2&theme=github_dark)](https://github.com/Suryaalghifari/nama-repo-2)
-
----
-
-## 💬 Quotes
-
-> *"Strive not to be a success, but rather to be of value."*  
-> — Albert Einstein
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/SURYAALGHIFARI)
 
 ---
 
-## ☕ Support
-
-<p>
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
----
-
-## 📫 Let's Connect
+### 🤝🏻 &nbsp;Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:yourmail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:suryaaalghifari@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Website](https://img.shields.io/badge/Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://yourwebsite.com)
 
 ---
+
+### 💡 &nbsp;Quotes
+
+> *"Keep learning, keep building, and inspire others with your code."*
+
+---
+
