@@ -11,7 +11,7 @@
 
 - 🖥️  Portfolio: [suryaalghifari.com](http://www.suryaalghifari.com/)
 - ✉️  Email: [m.suryaalghifari@gmail.com](mailto:m.suryaalghifari@gmail.com)
-- 💬  Let's connect: [LinkedIn](https://linkedin.com/in/yourlinkedin) | [Instagram](https://instagram.com/yourinstagram)
+- 💬  Let's connect: [LinkedIn](https://www.linkedin.com/in/muhamad-surya-al-ghifari-791625335)
 
 
 
@@ -50,8 +50,7 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://https://www.linkedin.com/in/muhamad-surya-al-ghifari-791625335/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:m.suryaalghifari@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://www.instagram.com/yourusername/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="http://www.suryaalghifari.com/"><img src="https://img.shields.io/badge/Website-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 </p>
