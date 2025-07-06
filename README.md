@@ -11,21 +11,21 @@
   Bandung, Indonesia · <a href="http://www.suryaalghifari.com/">Portfolio</a> · <a href="mailto:m.suryaalghifari@gmail.com">Email</a>
 </p>
 
----
 ### Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,php,python,dart,java,html,css,ts,react,vue,nodejs,express,laravel,flutter,bootstrap,tailwind,wordpress" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,bootstrap,tailwind,vue,react,vite,nodejs,express,laravel,flutter,dart" height="48" />
 </p>
 
 ### Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,github,ps,pr,ae,docker,linux,windows,sublime,vercel,blender,unity" height="48" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,postman,github,ps,docker,linux,windows,pr,ae,unity,blender,vercel,supabase,sublime" height="48" />
 </p>
 
 ### Database I Use
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,supabase" height="48" />
 </p>
+
 
 
 ### 📈 GitHub Stats
