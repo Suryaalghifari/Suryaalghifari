@@ -26,14 +26,13 @@
 
 
 
-### 📈 GitHub Stats
+📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suryaalghifari&show_icons=true&theme=github_dark" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaalghifari&layout=compact&theme=github_dark" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryaalghifari&theme=dark&hide_border=true" height="150"/>
 </p>
 
-### 🐍 Contribution Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suryaalghifari/github-contribution-snake/output/github-contribution-grid-snake-dark.svg" />
@@ -42,7 +41,7 @@
   </picture>
 </p>
 
-### 📫 Connect with Me
+📫 Connect with Me
 <p align="left">
   <a href="https://https://www.linkedin.com/in/muhamad-surya-al-ghifari-791625335/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="mailto:m.suryaalghifari@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
