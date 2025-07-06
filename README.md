@@ -1,15 +1,18 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suryaalghifari/Suryaalghifari/main/assets/logo.png" width="320" />
+  <img src="https://raw.githubusercontent.com/Suryaalghifari/Suryaalghifari/main/assets/logo.png" width="260" />
 </p>
 
+# 👋 Hey there! I'm Muhamad Surya Al Ghifari
 
-<h1 align="center">Muhamad Surya Al Ghifari</h1>
-<p align="center"><b>Web Developer</b> · Bandung, Indonesia</p>
+## 💼 Web Developer & Information Systems Student
+### 📍 Bandung, Indonesia
 
-<p align="center">
-  <a href="http://www.suryaalghifari.com/">🌐 Portfolio</a> &nbsp;|&nbsp; 
-  <a href="mailto:m.suryaalghifari@gmail.com">✉️ Email</a>
-</p>
+---
+
+- 🖥️  Portfolio: [suryaalghifari.com](http://www.suryaalghifari.com/)
+- ✉️  Email: [m.suryaalghifari@gmail.com](mailto:m.suryaalghifari@gmail.com)
+- 💬  Let's connect: [LinkedIn](https://linkedin.com/in/yourlinkedin) | [Instagram](https://instagram.com/yourinstagram)
+
 
 
 ### Tech Stack
