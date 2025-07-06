@@ -19,14 +19,13 @@
   <img src="https://skillicons.dev/icons?i=vscode,figma,git,postman,github,docker,linux,windows,vercel,sublime" height="48" />
 </p>
 
-### Database I Use
+### Database 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,supabase" height="48" />
 </p>
 
 
 
-📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suryaalghifari&show_icons=true&theme=github_dark" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryaalghifari&layout=compact&theme=github_dark" height="150"/>
