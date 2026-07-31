@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Suryaalghifari/Suryaalghifari/main/assets/logo.png" width="240" alt="Uyasky logo" />
-</p>
-
 <h1 align="center">Hey there! I'm Muhamad Surya Al Ghifari 👋</h1>
 
 <p align="center">
