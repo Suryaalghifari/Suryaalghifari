@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.suryaalghifari.com/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Web+Developer;Information+Systems+Student;Laravel+%7C+Vue+%7C+React+%7C+Flutter;Based+in+Bandung%2C+Indonesia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Web+Developer;Laravel+%7C+Vue+%7C+React+%7C+Flutter;Based+in+Bandung%2C+Indonesia" alt="Typing SVG" />
   </a>
 </p>
 
