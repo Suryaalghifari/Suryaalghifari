@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <a href="https://uyasky.web.id/"><b>🌐 uyasky.web.id</b></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suryaalghifari&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Suryaalghifari?label=Followers&style=flat-square&color=58a6ff" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Suryaalghifari?label=Stars&style=flat-square&color=58a6ff" alt="Stars" />
