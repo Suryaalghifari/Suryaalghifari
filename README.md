@@ -9,10 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://profile.uyasky.web.id/"><b>Portfolio</b></a> &nbsp;&bull;&nbsp;
-  <a href="https://resume.uyasky.web.id/"><b>Resume Suite</b></a> &nbsp;&bull;&nbsp;
-  <a href="https://github.com/surya-devss"><b>Organization</b></a> &nbsp;&bull;&nbsp;
-  <a href="https://www.linkedin.com/in/muhamad-surya-al-ghifari-791625335/"><b>LinkedIn</b></a>
+  <a href="https://profile.uyasky.web.id/"><img src="./icon-portfolio.svg" height="38" alt="2D RPG Portfolio" /></a> &nbsp;
+  <a href="https://resume.uyasky.web.id/"><img src="./icon-resume.svg" height="38" alt="Guild Resume Suite" /></a> &nbsp;
+  <a href="https://github.com/surya-devss"><img src="https://skillicons.dev/icons?i=github" height="38" alt="GitHub Organization" /></a> &nbsp;
+  <a href="https://www.linkedin.com/in/muhamad-surya-al-ghifari-791625335/"><img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="LinkedIn" /></a> &nbsp;
+  <a href="mailto:m.suryaalghifari@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="38" alt="Email" /></a>
 </p>
 
 </div>
@@ -76,12 +77,4 @@
   </a>
 </p>
 
----
 
-<div align="center">
-  <p><i>May your latency be low and your uptime be eternal.</i></p>
-  <p>
-    <a href="https://profile.uyasky.web.id/">profile.uyasky.web.id</a> &nbsp;&bull;&nbsp; 
-    <a href="mailto:m.suryaalghifari@gmail.com">m.suryaalghifari@gmail.com</a>
-  </p>
-</div>

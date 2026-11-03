@@ -1,0 +1,14 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <!-- Document -->
+  <path d="M 54,34 L 154,34 L 202,82 L 202,206 C 202,215 195,222 186,222 L 70,222 C 61,222 54,215 54,206 Z" fill="#f8fafc"/>
+  <path d="M 154,34 L 154,82 L 202,82 Z" fill="#94a3b8"/>
+  <!-- Text lines -->
+  <rect x="74" y="64" width="56" height="15" rx="5" fill="#242938"/>
+  <rect x="74" y="102" width="108" height="14" rx="5" fill="#242938"/>
+  <rect x="74" y="128" width="108" height="14" rx="5" fill="#242938"/>
+  <rect x="74" y="154" width="62" height="14" rx="5" fill="#242938"/>
+  <!-- Wax Seal -->
+  <circle cx="166" cy="180" r="28" fill="#ffd98a"/>
+  <path d="M 153 180 L 162 189 L 179 171" fill="none" stroke="#242938" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
