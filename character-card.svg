@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="100%" height="220">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f2a3f"/>
+      <stop offset="100%" stop-color="#091825"/>
+    </linearGradient>
+    <linearGradient id="hpGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2d6a4f"/>
+      <stop offset="100%" stop-color="#52b788"/>
+    </linearGradient>
+    <linearGradient id="mpGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <linearGradient id="atkGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b45309"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="2" y="2" width="796" height="216" rx="6" fill="url(#bg)" stroke="#2c1b10" stroke-width="4"/>
+  <rect x="8" y="8" width="784" height="204" rx="3" fill="none" stroke="#ffd98a" stroke-width="1.5" stroke-opacity="0.85"/>
+
+  <!-- Corner Pixel Accents -->
+  <rect x="8" y="8" width="8" height="8" fill="#ffd98a"/>
+  <rect x="784" y="8" width="8" height="8" fill="#ffd98a"/>
+  <rect x="8" y="204" width="8" height="8" fill="#ffd98a"/>
+  <rect x="784" y="204" width="8" height="8" fill="#ffd98a"/>
+
+  <!-- Header Section -->
+  <g font-family="'Courier New', Courier, monospace">
+    <text x="24" y="36" fill="#ffd98a" font-size="16" font-weight="bold" letter-spacing="1">SURYA AL GHIFARI</text>
+    <text x="24" y="54" fill="#94a3b8" font-size="12">Class: Fullstack Developer &amp; DevOps Engineer</text>
+    
+    <text x="776" y="36" text-anchor="end" fill="#ffd98a" font-size="14" font-weight="bold">LVL 24</text>
+    <text x="776" y="54" text-anchor="end" fill="#94a3b8" font-size="12">Base: Bandung [UTC+7] • Guild: surya-devss</text>
+  </g>
+
+  <!-- Divider Line -->
+  <line x1="24" y1="68" x2="776" y2="68" stroke="#ffd98a" stroke-opacity="0.3" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <!-- Attributes / Stats Bars -->
+  <g font-family="'Courier New', Courier, monospace" font-size="12">
+    <!-- HP ROW -->
+    <text x="24" y="98" fill="#e2e8f0" font-weight="bold">HP [Uptime]</text>
+    <rect x="150" y="85" width="460" height="16" rx="2" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <rect x="152" y="87" width="456" height="12" rx="1" fill="url(#hpGrad)"/>
+    <text x="625" y="98" fill="#52b788" font-weight="bold">100%</text>
+    <text x="670" y="98" fill="#94a3b8">Zero Downtime</text>
+
+    <!-- MP ROW -->
+    <text x="24" y="136" fill="#e2e8f0" font-weight="bold">MP [Systems]</text>
+    <rect x="150" y="123" width="460" height="16" rx="2" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <rect x="152" y="125" width="420" height="12" rx="1" fill="url(#mpGrad)"/>
+    <text x="625" y="136" fill="#60a5fa" font-weight="bold">92%</text>
+    <text x="670" y="136" fill="#94a3b8">Docker / LXC</text>
+
+    <!-- ATK ROW -->
+    <text x="24" y="174" fill="#e2e8f0" font-weight="bold">ATK [Stack]</text>
+    <rect x="150" y="161" width="460" height="16" rx="2" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+    <rect x="152" y="163" width="456" height="12" rx="1" fill="url(#atkGrad)"/>
+    <text x="625" y="174" fill="#fbbf24" font-weight="bold">MAX</text>
+    <text x="670" y="174" fill="#94a3b8">Laravel / React</text>
+  </g>
+
+  <!-- Footer Tagline -->
+  <text x="400" y="202" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="11" fill="#64748b">
+    Platform &amp; Systems Engineering • profile.uyasky.web.id
+  </text>
+</svg>
