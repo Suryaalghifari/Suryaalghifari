@@ -68,23 +68,13 @@
 
 ---
 
-## Verified Production Evidence
+## Production Realm Gateway
 
-- **LXC Edge Proxy Citadel**  
-  Arsitektur VPS dual-LXC (Ubuntu 24.04): Gateway Nginx dengan Cloudflare Real-IP, rate limiting, anti-scanner drop (HTTP 444), UFW firewall terisolasi ke CIDR Cloudflare, dan internal GitHub Actions runner di `app-server`.  
-  *Status: Production Live (Hardened Origin)*
-
-- **16-bit RPG Portfolio** ([profile.uyasky.web.id](https://profile.uyasky.web.id/))  
-  Portofolio 2D isometrik retro berbasis Vite & TypeScript, dikemas dalam micro-container Nginx Alpine (RAM ~3.4 MB) dengan automated GHCR deployment via self-hosted runner.
-
-- **Guild Resume Suite** ([resume.uyasky.web.id](https://resume.uyasky.web.id/))  
-  Sistem evaluasi dokumen ATS in-memory dan resume forge client-side berstandar Google XYZ & Harvard MCS. Privasi 100% di browser tanpa transfer dokumen ke server.
-
-- **Self-Guidance Monorepo**  
-  Sistem manajemen dan perizinan santri terintegrasi (Laravel 11 API + Nuxt Frontend) dengan cloud container build di GitHub Runner.
-
-- **Pempek Amalia Inkopad**  
-  Landing page UMKM produksi dengan container deploy cepat di runner VPS privat.
+<p align="center">
+  <a href="https://profile.uyasky.web.id/">
+    <img src="./realm-portal.svg" alt="Enter 2D Isometric Realm" width="100%" />
+  </a>
+</p>
 
 ---
 
