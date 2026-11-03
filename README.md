@@ -1,102 +1,60 @@
-<h1 align="center">Hey there! I'm Muhamad Surya Al Ghifari 👋</h1>
+# Muhamad Surya Al Ghifari
 
-<p align="center">
-  <a href="https://uyasky.web.id/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Web+Developer;Laravel+%7C+Vue+%7C+React+%7C+Flutter;Based+in+Bandung%2C+Indonesia" alt="Typing SVG" />
-  </a>
-</p>
+> Fullstack Web Developer & DevOps Engineer • Bandung, Indonesia  
+> Realm: **[profile.uyasky.web.id](https://profile.uyasky.web.id/)** • ATS Tool: **[resume.uyasky.web.id](https://resume.uyasky.web.id/)**
 
-<p align="center">
-  <a href="https://uyasky.web.id/"><b>🌐 uyasky.web.id</b></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Suryaalghifari&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Suryaalghifari?label=Followers&style=flat-square&color=58a6ff" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Suryaalghifari?label=Stars&style=flat-square&color=58a6ff" alt="Stars" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 💼 Web Developer & Information Systems Student
-- 📍 Based in Bandung, Indonesia
-- 🌱 Currently deepening **Laravel**, **Vue**, and **Flutter**
-- 🛠️ I enjoy building CRUD dashboards, landing pages, and small business web apps
-- 📫 Reach me at **m.suryaalghifari@gmail.com**
-- 🌐 Portfolio: **[uyasky.web.id](https://uyasky.web.id/)**
+```text
++-----------------------------------------------------------------------+
+| HERO: Muhamad Surya Al Ghifari (UyaSky)        LEVEL: 24              |
+| CLASS: Fullstack Developer & DevOps Engineer   EXP: Production-Ready  |
+| GUILD: surya-devss                             BASE: Bandung [UTC+7]  |
++-----------------------------------------------------------------------+
+| HP  (Uptime)   : [████████████████████] 100%  (Zero Downtime Deploy)  |
+| MP  (Systems)  : [██████████████████░░]  92%  (Docker / LXC / Linux)  |
+| ATK (Fullstack): [████████████████████] MAX   (Laravel / React / Vue) |
++-----------------------------------------------------------------------+
+```
 
 ---
 
-## 🚀 Tech Stack
+## 🗡️ Equipment & Loadout
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,dart" height="42" alt="Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap,vite,flutter" height="42" alt="Frontend" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=laravel,nodejs,express" height="42" alt="Backend" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Database</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" height="42" alt="Database" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vscode,sublime,git,github,figma,postman,docker,linux,windows,vercel" height="42" alt="Tools" />
-    </td>
-  </tr>
-</table>
+- **Languages**: TypeScript, JavaScript, PHP, Python, SQL, Bash
+- **Frontend**: React, Vue 3, Nuxt, Vite, Tailwind CSS
+- **Backend**: Laravel, Node.js, Express, FastAPI, RESTful APIs
+- **Platform & DevOps**: Docker, LXC, Linux Ubuntu, Nginx Reverse Proxy, Cloudflare, GitHub Actions CI/CD
+- **Databases**: PostgreSQL, MySQL, Redis
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Quest Log (Production Evidence)
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Suryaalghifari&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&icon_color=58A6FF&title_color=58A6FF" height="165" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Suryaalghifari&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=58A6FF&langs_count=8" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Suryaalghifari&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryaalghifari&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
-</p>
+- **LXC Edge Proxy Citadel**  
+  Arsitektur VPS dual-LXC (Ubuntu 24.04): Gateway Nginx dengan Cloudflare Real-IP, anti-scanner drop (HTTP 444), UFW Cloudflare CIDR only, dan internal runner `app-server`.
+- **16-bit RPG Portfolio (`profile.uyasky.web.id`)**  
+  Portofolio 2D isometrik retro berbasis Vite & TypeScript, dikemas dalam micro-container Nginx Alpine (RAM ~3.4 MB) dengan automated GHCR CD.
+- **Guild Resume Suite (`resume.uyasky.web.id`)**  
+  Sistem evaluasi dokumen ATS in-memory dan resume forge client-side berstandar Google XYZ & Harvard MCS.
+- **Self-Guidance Monorepo**  
+  Sistem manajemen dan perizinan santri terintegrasi (Laravel API + Nuxt Frontend) dengan cloud container build.
+- **Pempek Amalia Inkopad**  
+  Landing page UMKM produksi dengan container deploy cepat di runner VPS privat.
 
 ---
 
-## 🌐 Connect with Me
+## 📊 Combat Stats
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhamad-surya-al-ghifari-791625335/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:m.suryaalghifari@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://uyasky.web.id/">
-    <img src="https://img.shields.io/badge/Portfolio-3423A6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Suryaalghifari&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0f2a3f&icon_color=ffd98a&title_color=ffd98a&text_color=cfe3e8" height="155" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Suryaalghifari&theme=dark&hide_border=true&background=0f2a3f&ring=ffd98a&fire=e76f51&currStreakLabel=ffd98a&sideLabels=cfe3e8" height="155" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-  <i>Thanks for stopping by! ⭐ Feel free to check out my repositories below.</i>
-</p>
+---
+
+## 🌐 Teleport Waypoints
+
+- **Web Portfolio**: [profile.uyasky.web.id](https://profile.uyasky.web.id/)
+- **Guild Resume Tool**: [resume.uyasky.web.id](https://resume.uyasky.web.id/)
+- **Organization**: [github.com/surya-devss](https://github.com/surya-devss)
+- **LinkedIn**: [linkedin.com/in/muhamad-surya-al-ghifari-791625335](https://www.linkedin.com/in/muhamad-surya-al-ghifari-791625335/)
+- **Email**: [m.suryaalghifari@gmail.com](mailto:m.suryaalghifari@gmail.com)
